@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="base_background">#080B14</color>
+    <color name="surface_color">#0F1221</color>
+    <color name="elevated_color">#161A2E</color>
+
+    <!-- Brand Colors -->
+    <color name="primary_cyan">#00E5FF</color>
+    <color name="secondary_purple">#A78BFA</color> <!-- Lightened for better contrast -->
+    <color name="success_neon_green">#00FF00</color>
+    <color name="error_red">#FF4D6A</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_muted">#E2E8F0</color> <!-- Lightened for better contrast -->
+
+    <!-- Borders & Utils -->
+    <color name="border_default">#14FFFFFF</color> <!-- 8% white approx -->
+    <color name="glass_overlay">#E0080B14</color> <!-- 88% opacity base background -->
+    
+    <!-- Default Android Colors (kept to avoid errors) -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

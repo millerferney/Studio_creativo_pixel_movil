@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Studio_creativo_pixel" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary_cyan</item>
+        <item name="colorPrimaryVariant">@color/secondary_purple</item>
+        <item name="colorOnPrimary">@color/base_background</item>
+        
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary_purple</item>
+        <item name="colorSecondaryVariant">@color/primary_cyan</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/base_background</item>
+        <item name="android:windowBackground">@color/base_background</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_muted</item>
+    </style>
+</resources>

@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Studio Creativo Pixel</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_services">Servicios</string>
+    <string name="nav_catalog">Catálogo</string>
+    <string name="nav_login">Iniciar Sesión</string>
+    <string name="cart_title">CARRITO</string>
+    <string name="cart_empty">Tu carrito está vacío</string>
+    <string name="btn_confirm_order">CONFIRMAR PEDIDO</string>
+
+    <!-- Home -->
+    <string name="hero_title">LA EVOLUCIÓN\nDIGITAL</string>
+    <string name="hero_subtitle">Transformamos tus ideas en productos físicos premium con resolución milimétrica.</string>
+    <string name="btn_view_catalog">VER CATÁLOGO</string>
+    <string name="stats_projects">Proyectos</string>
+    <string name="stats_success">Éxito</string>
+    <string name="stats_delivery">Entrega</string>
+    <string name="section_specialties">ESPECIALIDADES</string>
+    <string name="spec_sublimation">Sublimación HD</string>
+    <string name="spec_sublimation_desc">Calidad fotográfica en cerámicas y textiles con tintas de secado rápido premium.</string>
+
+    <!-- Services & Catalog -->
+    <string name="services_title">NUESTROS SERVICIOS</string>
+    <string name="services_desc">Soluciones creativas de alta precisión para tu marca.</string>
+
+    <string name="service_sublimation_title">Sublimación Premium</string>
+    <string name="service_sublimation_desc">Colores vibrantes en mugs, hoodies y cases que no se desvanecen.</string>
+
+    <string name="service_hd_printing_title">Impresión HD</string>
+    <string name="service_hd_printing_desc">Resolución milimétrica con tintas de secado ultra-rápido.</string>
+
+    <string name="service_industrial_title">Calidad Industrial</string>
+    <string name="service_industrial_desc">Prensado térmico controlado por IA para transferencias perfectas.</string>
+
+    <string name="service_design_title">Diseño Pro</string>
+    <string name="service_design_desc">Optimización de vectores y color grading para resultados superiores.</string>
+
+    <string name="top_products_title">LO MÁS TOP</string>
+    <string name="product_mug_name">Taza Pixel-Glow</string>
+    <string name="product_mug_price">$38.000</string>
+    <string name="product_hoodie_name">Hoodie Tech-Spec</string>
+    <string name="product_hoodie_price">$95.000</string>
+    <string name="product_cap_name">Gorra Vector-Core</string>
+    <string name="product_cap_price">$25.000</string>
+
+    <string name="search_hint">Buscar productos…</string>
+    <string name="category_all">Todas</string>
+    <string name="category_mugs">Tazas</string>
+    <string name="category_clothing">Ropa</string>
+    <string name="category_accessories">Accesorios</string>
+    <string name="btn_add_to_cart">Agregar al carrito</string>
+    <string name="btn_personalize">Personalizar</string>
+
+    <!-- Login & Register -->
+    <string name="login_welcome">BIENVENIDO DE VUELTA</string>
+    <string name="register_title">CREA TU CUENTA</string>
+    <string name="login_email_hint">Correo electrónico</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="register_name_hint">Nombre completo</string>
+    <string name="login_btn_sign_in">INICIAR SESIÓN</string>
+    <string name="register_btn_sign_up">REGISTRARSE</string>
+    <string name="login_register_prompt">¿No tienes cuenta? Regístrate aquí</string>
+    <string name="register_login_prompt">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="privacy_policy_accept">Acepto los términos y políticas de privacidad</string>
+
+    <!-- Checkout -->
+    <string name="checkout_title">TERMINAL DE PAGO</string>
+    <string name="checkout_step1">PASO 01: MÉTODO DE PAGO</string>
+    <string name="checkout_step2">PASO 02: DETALLES DE FACTURACIÓN</string>
+    <string name="payment_pse">PSE (Débito)</string>
+    <string name="payment_card">Tarjeta Crédito / Débito</string>
+    <string name="holder_name_hint">Nombre del Titular</string>
+    <string name="doc_number_hint">Número de Documento</string>
+    <string name="card_number_hint">Número de Tarjeta</string>
+    <string name="expiry_hint">Vencimiento (MM/AA)</string>
+    <string name="cvv_hint">CVC / CVV</string>
+    <string name="summary_subtotal">Subtotal</string>
+    <string name="summary_iva">IVA (19%)</string>
+    <string name="summary_discount">Descuento Pixel (5%)</string>
+    <string name="summary_total">Total a Pagar</string>
+    <string name="btn_pay_now">PAGAR AHORA</string>
+    <string name="security_note">Transacción Encriptada AES-256</string>
+
+    <string name="product_bottle_name">Botella Tech-H2O</string>
+    <string name="product_bottle_price">$45.000</string>
+    <string name="checkout_subtotal_val">$158.000</string>
+    <string name="checkout_iva_val">$30.020</string>
+    <string name="checkout_discount_val">-$7.900</string>
+    <string name="checkout_total_val">$180.120</string>
+
+    <!-- Accessibility -->
+    <string name="desc_logo">Logotipo de Studio Creativo Pixel</string>
+    <string name="desc_cart">Abrir carrito de compras</string>
+    <string name="desc_menu">Abrir menú de navegación</string>
+    <string name="desc_product_image">Imagen del producto</string>
+    <string name="desc_service_image">Imagen del servicio</string>
+
+    <!-- Customization -->
+    <string name="customize_title">PERSONALIZAR PRODUCTO</string>
+    <string name="step_color">PASO 01: COLOR</string>
+    <string name="step_size">PASO 02: TALLA / DIMENSIONES</string>
+    <string name="step_design">PASO 03: DISEÑO BASE</string>
+    <string name="step_upload">PASO 04: SUBIR ARCHIVO</string>
+    <string name="step_instructions">PASO 05: INSTRUCCIONES</string>
+    <string name="step_quantity">PASO 06: CANTIDAD</string>
+    <string name="btn_upload_file">SELECCIONAR ARCHIVO</string>
+    <string name="instructions_hint">Describe tu idea aquí…</string>
+    <string name="customization_summary">RESUMEN DE PERSONALIZACIÓN</string>
+    <string name="preview_label">VISTA PREVIA</string>
+    <string name="size_s">S</string>
+    <string name="size_m">M</string>
+    <string name="size_l">L</string>
+    <string name="size_xl">XL</string>
+
+    <!-- Navigation Header -->
+    <string name="nav_header_title">Studio Pixel</string>
+    <string name="nav_header_subtitle">Creatividad Neon</string>
+</resources>
